@@ -4,7 +4,6 @@ require 'json'
 require 'pry'
  
 class GetRequester
-  attr_accessor :url
 
   def initialize(url)
   end
